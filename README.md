@@ -1,4 +1,5 @@
-#Centro de Innovación y Desarrollo Tecnológico País del conocimiento.
+Centro de Innovación y Desarrollo Tecnológico País del conocimiento.
+--------------------------------------------------------------------
 
 Artículos - Enlaces permanentes. 
 
