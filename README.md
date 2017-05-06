@@ -4,7 +4,7 @@ Centro de Innovación y Desarrollo Tecnológico País del conocimiento.
 Enlaces permanentes. 
 
 Temas:
-- Territorios Digitales - Digital Territories
+
 - Territorios del Conocimiento - Territories Of Knowledge 
 - Desarrollo Sostenible - Sustaible Development
 - Laboratorios Vivientes- Living Labs
