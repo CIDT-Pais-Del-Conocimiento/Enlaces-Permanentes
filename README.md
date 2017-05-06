@@ -16,15 +16,15 @@ Temas:
 - Tecnologías de la información y las comunicaciones - ITC
 - Mejores Practicas - Best Practices
 - Educación Disruptiva Disruptive Education
-- Participación ciudadana - 
-- Industrias Creativas - 
-- Sistemas de planeación territorial
-- Formación en modelo STEAM Ciencia, Tecnología, Ingeniería, Arte y Matemática.
-- Cuarta Revolución Industrial
-- Living School
-- Ecosistema de Innovación
-- Economía Naranja
-- Desarrollo de Software
-- Certificación de Proyectos bajo Modelo Living Lab
-- Consultaría Especializada en Apropiación social de Ciencia, tecnología e innovación y TICS
-- Organización de eventos Nacionales o Internacionales.
+- Participación ciudadana - Citizen participation
+- Industrias Creativas - Creative Industries 
+- Sistemas de planeación territorial - Territorial planning systems
+- Formación en modelo STEAM Ciencia, Tecnología, Ingeniería, Arte y Matemática - Training in STEAM model Science, Technology, Engineering, Art and Mathematics.
+- Cuarta Revolución Industrial - Fourth Industrial Revolution
+- Escuela Viviente - Living School
+- Ecosistema de Innovación - Ecosystem of Innovation
+- Economía Naranja - Economy Orange
+- Desarrollo de Software - Software development
+- Certificación de Proyectos bajo Modelo Living Lab - Certification of Projects under Living Lab Model
+- Consultaría Especializada en Apropiación social de Ciencia, tecnología e innovación y TICS - Specialized Consultancy on Social Appropriation of Science, Technology and Innovation and TICS
+- Organización de eventos Nacionales o Internacionales - Organization of national or international events.
