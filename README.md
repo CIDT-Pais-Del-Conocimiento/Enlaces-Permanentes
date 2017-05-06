@@ -13,4 +13,4 @@ Temas:
 - Investigación y Desarrollo - Research anbd Develpment
 - Trasnformación Digital - Digital Transformation
 - Tecnologias de la información y las comunicaciones - CIT
-- Mejores Practicas Best Practices
+- Mejores Practicas - Best Practices
