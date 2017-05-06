@@ -1,7 +1,7 @@
 Centro de Innovación y Desarrollo Tecnológico País del conocimiento.
 --------------------------------------------------------------------
 
-Artículos - Enlaces permanentes. 
+Enlaces permanentes. 
 
 Temas:
 - Territorios Digitales - Digital Territories
