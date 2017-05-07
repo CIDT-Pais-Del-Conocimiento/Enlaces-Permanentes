@@ -1,30 +1,27 @@
-Centro de Innovación y Desarrollo Tecnológico País del conocimiento.
+Centro de Innovación y Desarrollo Tecnológico País del Conocimiento
 --------------------------------------------------------------------
 
-Enlaces permanentes. 
+Enlaces permanentes:
 
 Temas:
 
-- Territorios del Conocimiento - Territories Of Knowledge 
-- Desarrollo Sostenible - Sustaible Development
-- Laboratorios Vivientes- Living Labs
-- Ciudades Inteligentes - Smart Cities
-- Innovación Abierta y Colaborativa - Innovation
-- Investigación y Desarrollo Tecnologico - Research and Technological Development
-- Transformación Digital - Digital Transformation
-- Economía Digital -  Digital Economy
-- Tecnologías de la información y las comunicaciones - ITC
-- Mejores Practicas - Best Practices
-- Educación Disruptiva Disruptive Education
-- Participación ciudadana - Citizen participation
-- Industrias Creativas - Creative Industries 
-- Sistemas de planeación territorial - Territorial planning systems
-- Formación en modelo STEAM Ciencia, Tecnología, Ingeniería, Arte y Matemática - Training in STEAM model Science, Technology, Engineering, Art and Mathematics.
-- Cuarta Revolución Industrial - Fourth Industrial Revolution
-- Escuela Viviente - Living School
+- Territorios Inteligentes - Smart Cities
+- Territorios del Conocimiento - Territories of Knowledge 
+- Laboratorios Vivientes - Living Labs
+- Innovación Abierta y Colaborativa - Open and Colaborative Innovation
+- Desarrollo Sostenible - Sustainable Development (Objetivos de Desarrollo Sostenible)
+- Investigación y Desarrollo Tecnológico - Research and Technological Development
+- Apropiación de Tecnologías de la Información y las Comunicaciones,TIC - Appropriation of Information and Communication Technologies, ICT
+- Apropiación Social de Ciencia, Tecnología e Innovación, CTeI - Social Appropriation of Science, Technology and Innovation, ST&I
 - Ecosistema de Innovación - Ecosystem of Innovation
-- Economía Naranja - Economy Orange
-- Desarrollo de Software - Software development
+- Economía Digital o Nueva Economía - Digital Economy or New Economy
+- Industria Creativa, o "Economía Naranja" - Creative Industry, or "Orange Economy"
+- Transformación Digital - Digital Transformation
+- Apropiación de Mejores Prácticas - Appropriation of Best Practices
+- Plataformas Integrales de Información para Sistemas de Planeación Territorial - Territorial Planning Platforms for Planning Sistems
+- Industria 4.0 o Cuarta Revolución Industrial - Industry 4.0 or Fourth Industrial Revolution
+- Escuela Viviente - Living School
+- Desarrollo de Software - Software Development
 - Certificación de Proyectos bajo Modelo Living Lab - Certification of Projects under Living Lab Model
-- Consultaría Especializada en Apropiación social de Ciencia, tecnología e innovación y TICS - Specialized Consultancy on Social Appropriation of Science, Technology and Innovation and TICS
-- Organización de eventos Nacionales o Internacionales - Organization of national or international events.
+- Consultaría Especializada en CTeI y TIC
+- Organización de Eventos Nacionales o Internacionales - Organization of national or international events
