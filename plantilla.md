@@ -3,6 +3,11 @@ Contenido:
 Tipo | Número | Nombre | Versión | Fecha de publicación|
  :--: | :--: | :--: | :--: | :--: |
  `Academico-Cientifico-Comercial` | `0O` | `Plantilla` | `01` | `2017-01-30` |
+ 
+Idioma:
+============================
+`Español` | [Ingles - English](https://URL.com/ "English") | [Frances - Français](https://URL.com/ "Français") | [Alemán - Deutsch](https://URL.com/ "Deutsch")  | [Ruso - русский](https://URL.com/ "Pусский")  | [Italiano - Italian](https://URL.com/ "Italian") | [Portugués - Português](https://URL.com/ "Português")  | [Árabe - العربي](https://URL.com/ "العربي") | [Chino - Chinese](https://URL.com/ "Chino") |
+ :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 
 Abstract:
 =========
