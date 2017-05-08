@@ -1,4 +1,4 @@
-Contenido:
+Información:
 =========
 Tipo | Número | Nombre | Versión | Fecha de publicación|
  :--: | :--: | :--: | :--: | :--: |
@@ -9,16 +9,24 @@ Idioma:
 `Español` | [Ingles - English](https://URL.com/ "English") | [Frances - Français](https://URL.com/ "Français") | [Alemán - Deutsch](https://URL.com/ "Deutsch")  | [Ruso - русский](https://URL.com/ "Pусский")  | [Italiano - Italian](https://URL.com/ "Italian") | [Portugués - Português](https://URL.com/ "Português")  | [Árabe - العربي](https://URL.com/ "العربي") | [Chino - Chinese](https://URL.com/ "Chino") |
  :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 
-Abstract:
-=========
-
-
 
 Palabras Clave:
 ============================
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
  :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
  `Palabra Clave` | `Palabra Clave` | `Palabra Clave` | `Palabra Clave` | `Palabra Clave` | `Palabra Clave` | `Palabra Clave` | `Palabra Clave` |
+
+
+Abstract:
+=========
+
+
+
+
+
+Contenido:
+==========
+
 
 
 
